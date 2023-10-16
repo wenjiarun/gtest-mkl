@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wl,--no-as-needed -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl -rdynamic CMakeFiles/mytest.dir/gtest_mkl.cpp.o -o mytest   -L/home/fqss1804/intel/oneapi/mkl/2023.2.0/lib/intel64  -Wl,-rpath,/home/fqss1804/intel/oneapi/mkl/2023.2.0/lib/intel64 -Wl,-Bstatic -lgtest -lgtest_main -Wl,-Bdynamic 

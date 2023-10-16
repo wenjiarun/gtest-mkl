@@ -1,0 +1,4 @@
+/home/fqss1804/gtest_mkl/build_test/CMakeFiles/mytest.dir
+/home/fqss1804/gtest_mkl/build_test/CMakeFiles/test.dir
+/home/fqss1804/gtest_mkl/build_test/CMakeFiles/edit_cache.dir
+/home/fqss1804/gtest_mkl/build_test/CMakeFiles/rebuild_cache.dir
